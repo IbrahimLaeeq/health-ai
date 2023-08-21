@@ -2,6 +2,9 @@
 
 Welcome to the repository of our Healthcare Bot! This bot leverages the power of OpenAI and LangChain to provide advice for the prevention and treatment of various illnesses. It also tells you the potential side-effects of a specifc routine.
 
+[![Video Demo](https://drive.google.com/file/d/1tsTwPfYiODK9-g8zZrNDEMWua5w5P_MV/view)
+
+
 ![Healthcare Bot Image](doc.png)
 
 ## 📚 Table of Contents
